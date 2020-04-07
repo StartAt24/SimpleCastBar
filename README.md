@@ -3,9 +3,9 @@
 
 ## 样式
 SimpleCastBar.lua中　`local bOriginal = true` 效果如下：
-![image](https://github.com/StartAt24/SimpleCastBar/tree/master/screenshot/original.jpg)
+![image](https://github.com/StartAt24/SimpleCastBar/master/screenshot/original.jpg)
 
 SimpleCastBar.lua中 `local bOriginal = false` 效果如下:
-![image](https://github.com/StartAt24/SimpleCastBar/tree/master/screenshot/fancy.jpg)
+![image](https://github.com/StartAt24/SimpleCastBar/master/screenshot/fancy.jpg)
 
 
